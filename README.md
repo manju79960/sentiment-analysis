@@ -28,6 +28,7 @@ The application analyzes user input text and predicts the sentiment as **Positiv
 sentiment-analysis
 
 │
+
 ├── app.py
 
 ├── sentiment.py
